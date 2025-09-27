@@ -1,0 +1,33 @@
+{
+  "name": "wasijs",
+  "version": "1.0.0",
+  "description": "A powerful all-in-one math toolkit for bots and JavaScript apps. Includes basic math, algebra, geometry, statistics, matrices, random utilities, trigonometry, and calculus.",
+  "main": "index.js",
+  "type": "commonjs",
+  "keywords": [
+    "math",
+    "math-utils",
+    "bot",
+    "algebra",
+    "geometry",
+    "statistics",
+    "matrix",
+    "random",
+    "trigonometry",
+    "calculus",
+    "wasijs"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itxxwasi/wasijs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/itxxwasi/wasijs/issues"
+  },
+  "homepage": "https://github.com/itxxwasi/wasijs#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
